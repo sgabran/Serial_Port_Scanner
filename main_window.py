@@ -8,7 +8,7 @@ class MainWindow:
     def __init__(self):  # instantiation function. Use root for GUI and refers to main window
         # Root frame
         root = Tk()
-        root.title("Serial Port Scanner")
+        root.title("Serial Port Scanner TEST")
         self.root_frame = root
         # Disable resizing the window
         root.resizable(False, False)
